@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/pages/main_card.dart';
+import 'package:flutter_application_1/utils/main_card.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({
